@@ -1,0 +1,58 @@
+h1{
+    color: red;
+}
+ul{
+    color: blue;
+    list-style: none;
+    display: flex;
+}
+p{
+    color: purple;
+}
+footer{
+    color: indigo;
+}
+.firstcard{
+    color: blue;
+}
+.secondcard{
+    color: crimson;
+}
+.thirdcard{
+    color: orange;
+}
+a{
+    text-decoration: none;
+}
+li{
+    display:grid;
+    padding: 5%;
+}
+.socialsharingsection{
+    display: flex;
+    padding: 20%;
+    
+}
+.socialsection{
+    display: block;
+}
+
+.authorinfosection{
+    display: grid;
+
+}
+img{
+    width: 50%;
+
+}
+body{
+    background-color:chocolate;
+}
+
+blockquote{
+    display: block;
+    margin-top: lem;
+    margin-bottom: lem;
+    margin-left: 40px;
+    margin-right: 40px;
+}
