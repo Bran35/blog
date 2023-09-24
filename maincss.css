@@ -46,7 +46,7 @@ img{
 
 }
 body{
-    background-color:chocolate;
+    background-color:blue;
 }
 
 blockquote{
@@ -57,6 +57,6 @@ blockquote{
     margin-right: 40px;
 }
 button{
-    color:gray;
+    background-color:aqua;
+    color:red;
 }
-    
